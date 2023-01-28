@@ -1,0 +1,17 @@
+{
+    "name": "lopez/whatsappcloud",
+    "autoload": {
+        "psr-4": {
+            "Lopez\\Whatsappcloud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Oscar López",
+            "email": "oscar.lopez@enrolate.cl"
+        }
+    ],
+    "require": {
+        "netflie/whatsapp-cloud-api": "^1.4"
+    }
+}
